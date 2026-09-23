@@ -1,0 +1,14 @@
+{
+  "thresholds": {
+    "revenue_growth": 0.10,
+    "earnings_growth": 0.10,
+    "eps_growth": 0.10,
+    "price_change": 0.05,
+    "volume_change": 0.50,
+    "foreign_imbalance": 0.20
+  },
+  "selected_focus_weight": 1.0,
+  "other_focus_weight": 0.4,
+  "matching_sector_factor": 1.0,
+  "other_sector_factor": 0.5
+}

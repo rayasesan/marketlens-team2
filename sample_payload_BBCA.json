@@ -1,0 +1,49 @@
+{
+  "symbol": "BBCA",
+  "company": {
+    "company_name": "PT Bank Central Asia Tbk.",
+    "overview": {
+      "sector": "Financials",
+      "industry": "Banks",
+      "market_cap": 759713314387500,
+      "last_close_price": 6200
+    },
+    "financials": {
+      "historical_eps": {
+        "2025": {
+          "eps_growth": 0.0493
+        }
+      },
+      "yoy_quarter_revenue_growth": 0.003057,
+      "yoy_quarter_earnings_growth": -0.001367
+    },
+    "peers": [
+      "BBRI",
+      "BMRI",
+      "BBNI"
+    ]
+  },
+  "market": [
+    {
+      "price": 6225,
+      "volume": 69914100,
+      "market_cap": 759713314387500,
+      "observed_at": "2026-09-21"
+    }
+  ],
+  "foreign_flow": [
+    {
+      "net_foreign_inflow": -131341887500,
+      "foreign_buy_idr": 182530355000,
+      "foreign_sell_idr": 313872242500,
+      "foreign_share": 0.568,
+      "observed_at": "2026-09-21"
+    }
+  ],
+  "limitations": [],
+  "source_endpoints": [
+    "https://api.sectors.app/v2/company/report/BBCA/",
+    "https://api.sectors.app/v2/daily/BBCA/",
+    "https://api.sectors.app/v2/foreign-flow/BBCA/"
+  ]
+}
